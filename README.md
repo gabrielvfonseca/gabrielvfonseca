@@ -1,8 +1,11 @@
-### Hi there 👋
+⚡
 
-**gabrielvfonseca/gabrielvfonseca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey, I’m Gabriel.
 
-Here are some ideas to get you started:
+<b>I’m a Full-stack Javascript Developer.</b>
+
+I’m a still learning Full-stack developer, passionate about AI, Web3, and mobile hybrid apps. Right now I’m improving my skills in Artificial Intelligence algorithms.
+Reach me out by [email](mailTo:jg.fonseca@outlook.pt) or visit my personal website [here](https://t.co/QXEaIQgVBv)!
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,3 +15,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[@GabrieFonseca\_ on Twitter &rarr;](https://twitter.com/GabrieFonseca_)
+<br />
+[@gabrielfonsecaa on Linkedin &rarr;](https://www.linkedin.com/in/gabrielfonsecaa/)
