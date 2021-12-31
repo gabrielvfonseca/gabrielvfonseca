@@ -10,7 +10,7 @@ Reach me out by [email](mailTo:jg.fonseca@outlook.pt) or visit my personal websi
 - 🔭 I’m currently working on something cool
 - 🌱 I’m currently learning AI
 - 💬 Ask me about Anything
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I'm still 16
 
 [@GabrieFonseca\_ on Twitter &rarr;](https://twitter.com/GabrieFonseca_)
 <br />
