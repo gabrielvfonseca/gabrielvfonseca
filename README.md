@@ -10,7 +10,7 @@ Reach me out by [email](mailTo:jg.fonseca@outlook.pt) or visit my personal websi
 - 🔭 I’m currently working on something cool
 - 🌱 I’m currently learning AI
 - 💬 Ask me about Anything
-- ⚡ Fun fact: Code is my life
+- ⚡ Fun fact: I look at things & I see binary
 
 [@GabrieFonseca\_ on Twitter &rarr;](https://twitter.com/GabrieFonseca_)
 <br />
