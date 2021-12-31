@@ -2,7 +2,7 @@
 
 ## Hey, I’m Gabriel.
 
-<b>I’m a Full-stack Javascript Developer.</b>
+<b>I’m a Javascript Developer.</b>
 
 Trying to master Full-stack development, I’m passionate about AI, Web3, and mobile hybrid apps. Right now I’m improving my skills in Artificial Intelligence algorithms. Reach me out by email or visit my personal website here!
 
