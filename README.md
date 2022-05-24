@@ -1,16 +1,11 @@
-⚡
 
-## Hey, I’m Gabriel.
+# Gabriel Fonseca
 
-<b>I’m a Javascript Developer.</b>
+I'm a computer science student working part-time as a freelancer online.
+I always have been passionate about computers and technology itself since very early. My path until now has been marked by the creation of a tech magazine, my work as a freelancer, and my improvements as a computer science student as well.
 
-Trying to master Full-stack development, I’m passionate about AI, Web3, and mobile hybrid apps. Right now I’m improving my skills in Artificial Intelligence algorithms. Reach me out by email or visit my personal website here!
+### Social
 
-- 🔭 I’m always working on something cool
-- 🌱 I’m currently learning AI
-- 💬 Ask me about Anything
-- ⚡ Fun fact: I look at things & I see binary
-
-[@GabrieFonseca\_ on Twitter &rarr;](https://twitter.com/GabrieFonseca_)
-<br />
-[@gabrielfonsecaa on Linkedin &rarr;](https://www.linkedin.com/in/gabrielfonsecaa/)
+- [@GabrieFonseca_](https://twitter.com/GabrieFonseca_)
+- [@gabrielvfonseca](https://github.com/gabrielvfonseca)
+- [@gabrielfonsecaa](https://www.linkedin.com/in/gabrielfonsecaa/)
