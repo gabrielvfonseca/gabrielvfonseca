@@ -10,11 +10,11 @@ I always have been passionate about computers and technology itself since very e
   
 ### Social
 <div>
-  <span>Email me: jg.fonseca@outlook.pt</span>
+  <span>Email me jg.fonseca@outlook.pt</span>
   <br>
-  <span>Twitter: [@GabrieFonseca_](https://twitter.com/GabrieFonseca_)</span>
+  <span>Twitter [@GabrieFonseca_](https://twitter.com/GabrieFonseca_)</span>
   <br>
-  <span>Github: [@gabrielvfonseca](https://github.com/gabrielvfonseca)</span>
+  <span>Github [@gabrielvfonseca](https://github.com/gabrielvfonseca)</span>
   <br>
-  <span>Linkedin: [@gabrielfonsecaa](https://www.linkedin.com/in/gabrielfonsecaa/)</span>
+  <span>Linkedin [@gabrielfonsecaa](https://www.linkedin.com/in/gabrielfonsecaa/)</span>
 </div>
