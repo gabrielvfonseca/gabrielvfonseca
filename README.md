@@ -11,9 +11,12 @@ Email me: jg.fonseca@outlook.pt
 ### Social
 
 <div>
-  Twitter: [@GabrieFonseca_](https://twitter.com/GabrieFonseca_) 
+  Twitter:
+  [@GabrieFonseca_](https://twitter.com/GabrieFonseca_) 
   <br>
-  Github: [@gabrielvfonseca](https://github.com/gabrielvfonseca) 
+  Github:
+  [@gabrielvfonseca](https://github.com/gabrielvfonseca) 
   <br>
-  Linkdin: [@gabrielfonsecaa](https://www.linkedin.com/in/gabrielfonsecaa/)
+  Linkdin:
+  [@gabrielfonsecaa](https://www.linkedin.com/in/gabrielfonsecaa/)
 </div>
