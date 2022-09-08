@@ -9,6 +9,7 @@ I always have been passionate about computers and technology itself since very e
 ### Social
 
 Email me: jg.fonseca@outlook.pt
+<br>
 <span>Twitter [@GabrieFonseca_](https://twitter.com/GabrieFonseca_)</span>
 - [@gabrielvfonseca](https://github.com/gabrielvfonseca) 
 - [@gabrielfonsecaa](https://www.linkedin.com/in/gabrielfonsecaa/)
