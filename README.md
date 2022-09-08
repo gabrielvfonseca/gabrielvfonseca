@@ -6,11 +6,7 @@ I always have been passionate about computers and technology itself since very e
 
 Email me: jg.fonseca@outlook.pt
 
-<div align="center">
-  <a href="https://github.com/Wraquel">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Wraquel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wraquel&layout=compact&langs_count=7&theme=dark"/>
-</div>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Wraquel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
 ### Social
 
