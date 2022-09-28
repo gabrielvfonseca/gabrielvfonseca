@@ -4,10 +4,6 @@
 I am a computer science student, experienced in building different types of applications with many different technologies.
 I define myself as a self-taught person always looking for self-improvement and new ways to be challenged.
 My most skilled area of expertise is full-stack although I've been currently working with machine learning algorithms.
-
-<div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielvfonseca&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
   
 ### Social
 
