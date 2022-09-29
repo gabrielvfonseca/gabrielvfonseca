@@ -15,6 +15,6 @@ My most skilled area of expertise is full-stack although I've been currently wor
 <br>
 <span>Twitter [@GabrieFonseca_](https://twitter.com/GabrieFonseca_)</span>
 <br>
-<span>Github [@gabrielvfonseca](https://github.com/gabrielvfonseca)</span>
+<span>Github [@gabrielvfonseca](https://github.com/gabrielvfonseca) <3</span>
 <br>
 <span>Linkedin [@gabrielfonsecaa](https://www.linkedin.com/in/gabrielfonsecaa/)</span>
