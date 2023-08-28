@@ -5,8 +5,7 @@ My name is João Gabriel Fonseca, and I'm a programmer currently studying Comput
 I work at a web and app development agency. I also share my experiences and thoughts on my blog and several other projects.
 I am assertive, responsible, highly organized, hardworking, committed, and self-taught. I am always seeking new challenges.
 
-<br />
-#### Languages & tools: 
+### Languages & tools: 
 - Python
 - Node.js
 - Typescript
