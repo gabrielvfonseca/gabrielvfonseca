@@ -19,9 +19,6 @@ I am assertive, responsible, highly organized, hardworking, committed, and self-
 <br>
 <span>Twitter [@GabrieFonseca_](https://twitter.com/GabrieFonseca_)</span>
 <br>
-<span>
-  Github [@gabrielvfonseca](https://github.com/gabrielvfonseca) 
-  <img src="https://cdn3.emoji.gg/emojis/minecraftheart.png" width="64px" height="64px" alt="minecraftheart">
-</span>
+<span>Github [@gabrielvfonseca](https://github.com/gabrielvfonseca)</span>
 <br>
 <span>Linkedin [@gabrielfonsecaa](https://www.linkedin.com/in/gabrielfonsecaa/)</span>
