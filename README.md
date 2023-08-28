@@ -15,10 +15,13 @@ I am assertive, responsible, highly organized, hardworking, committed, and self-
   
 ### Social
 
-<span>Email me jg.fonseca@outlook.pt</span>
+<span>Email me [jg.fonseca@outlook.pt](mailTo:jg.fonseca@outlook.pt)</span>
 <br>
 <span>Twitter [@GabrieFonseca_](https://twitter.com/GabrieFonseca_)</span>
 <br>
-<span>Github [@gabrielvfonseca](https://github.com/gabrielvfonseca) <3</span>
+<span>
+  Github [@gabrielvfonseca](https://github.com/gabrielvfonseca) 
+  <img src="https://cdn3.emoji.gg/emojis/minecraftheart.png" width="64px" height="64px" alt="minecraftheart">
+</span>
 <br>
 <span>Linkedin [@gabrielfonsecaa](https://www.linkedin.com/in/gabrielfonsecaa/)</span>
