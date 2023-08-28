@@ -1,13 +1,18 @@
 
 # Gabriel Fonseca
 
-I am a computer science student, experienced in building different types of applications with many different technologies.
-I define myself as a self-taught person always looking for self-improvement and new ways to be challenged.
-My most skilled area of expertise is full-stack although I've been currently working with machine learning algorithms.
+My name is João Gabriel Fonseca, and I'm a programmer currently studying Computer Science Engineering.
+Currently, I manage and work at a web and app development agency. I also share my experiences and thoughts on my blog and several other projects.
+I am assertive, responsible, highly organized, hardworking, committed, and self-taught. I am always seeking new challenges.
 
-**Software** => { vscode <3, postman, hyper, notion, tableplus, ... }
 <br />
-**Languages & tools:** { Python, PHP, JS, Node.js, Typescript, React, Next.js, Rust, Docker }
+#### Languages & tools: 
+- Python
+- Node.js
+- Typescript
+- Next.js
+- Rust
+- Docker
   
 ### Social
 
