@@ -14,7 +14,7 @@ My passion for technology extends beyond the workplace, as I actively attend tec
 - 🌱 I’m currently learning Rust
 - 💬 Ask me about Next, JS, TS, HTML, CSS, Python, C/C++, DBs...
 - 💾 DB management: SQL & NoSQL
-- 📫 How to reach me: thomasledoux1@gmail.com
+- 📫 How to reach me: jg.fonseca@outlook.pt
 - 😄 Development tools:
 - ❤️ IDE: Visual Studio Code
 - 🗃️ Linkedin: https://www.linkedin.com/in/gabfon/
