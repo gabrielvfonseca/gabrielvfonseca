@@ -11,8 +11,8 @@ My passion for technology extends beyond the workplace, as I actively attend tec
 
 
 - 🔭 I’m currently working on my site
-- 🌱 I’m currently learning Rust
-- 💬 Ask me about Next, JS, TS, HTML, CSS, Python, C/C++, DBs...
+- 🌱 I’m currently learning Rust!
+- 💬 Ask me about Next, JS, TS, HTML, CSS, Python, DBs...
 - 💾 DB management: SQL & NoSQL
 - 📫 How to reach me: jg.fonseca@outlook.pt
 - 😄 Development tools:
