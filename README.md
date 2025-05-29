@@ -1,8 +1,14 @@
 
 Hey there! 
 
-I am currently working towards a degree in Computer Engineering at the NOVA School of Science and Technology (NOVA SST) in Lisbon, Portugal. 
+I’m a Computer Engineering student at NOVA School of Science and Technology in Lisbon, Portugal, with a solid foundation in software development—shaped by both academic experience and self-driven projects.
 
-I relish the opportunity to attend tech conferences and events whenever possible, as they provide valuable insights from leading products and industry experts. My enthusiasm is driven by constantly exploring [new ideas](https://gabfon.com/notes) and transforming innovative [projects](https://gabfon.com/projects) into reality.
+Currently, I’m building an AI-powered platform designed to help businesses align teams, make data-driven decisions, gain insights, streamline operations, and execute projects with clarity. As the founder, my focus is on product development, user research, and laying the groundwork to bring this vision to life.
+
+Beyond my startup, I work on freelance and personal projects in full-stack development, always aiming to combine creativity with technical skills to solve real-world problems. I stay engaged with the tech, business, and startup communities, and I’m always learning, experimenting, and iterating.
+
+I’m open to connecting with fellow builders, potential collaborators, and anyone interested in AI, productivity, and organizational clarity.
+
+Feel free to check my [website](https://gabfon.com).
 
 🤙
