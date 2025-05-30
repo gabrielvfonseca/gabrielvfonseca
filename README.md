@@ -10,5 +10,3 @@ Beyond my startup, I work on freelance and personal projects in full-stack devel
 I’m open to connecting with fellow builders, potential collaborators, and anyone interested in AI, productivity, and organizational clarity.
 
 Feel free to check my [website](https://gabfon.com).
-
-🤙
