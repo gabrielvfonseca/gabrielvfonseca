@@ -1,7 +1,7 @@
 
 Hey there! 
 
-I’m a Computer Engineering student at NOVA SST in Lisbon with a strong foundation in software development—shaped by both academic work and self-driven projects.
+I’m a Computer Engineering student at NOVA SST in Lisbon with a strong foundation in software development, shaped by both academic work and self-driven projects.
 
 Currently, I’m building Frontal, an AI-powered platform that helps businesses align teams, make data-driven decisions, and execute with clarity. As founder, I’m focused on product development, user research, and turning this vision into reality.
 
